@@ -2,7 +2,7 @@
 
 Complete Project for demonstration is Hosted On Internet with domain name given below:---
 
-https://proctoredexaminationsystem.epizy.com/?i=1
+https://proctoredexaminationsystem.epizy.com/
 
 
 Instalation ::
