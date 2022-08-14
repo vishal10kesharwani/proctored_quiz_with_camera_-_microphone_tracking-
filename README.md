@@ -1,7 +1,8 @@
-# Online-exam-system
+# Proctored Exam System with Camera 📸 And Microphone 🎤 Tracking Features 
 
-Online examination system is a app for setup online quiz with so many functionality.
-It is a PHP project.
+Complete Project for demonstration is Hosted On Internet with domain name given below:---
+
+https://proctoredexaminationsystem.epizy.com/?i=1
 
 
 Instalation ::
@@ -15,12 +16,12 @@ Instalation ::
 3)Edit dbconnection file.change username,password and database name.
 - Default user is root,password is null and database name is project1.
 
-Default admin email id is head@gmail.com and password is head .
+Default admin email id is head@gmail.comassword is head .
 admin password is md5 encypted.
 
 
 
-Thanx.
+Tha
 
 
 ## Precise Explanation regarding the work in detail :
